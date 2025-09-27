@@ -1,7 +1,7 @@
 # Bankruptcy-Prevention-Machine-Learning-Project
 This project aims to predict bankruptcy risk for companies using machine learning techniques. By analyzing financial and operational features, the model classifies whether a firm is at risk of bankruptcy or financially stable.
 
-Key Features
+Key Features:
 
 Data Preprocessing – Cleaning, handling missing values, encoding categorical features, and scaling.
 
@@ -13,7 +13,7 @@ Model Evaluation – Assessed using accuracy, precision, recall, F1-score, and R
 
 Deployment Ready – Final pipeline prepared for deployment with Streamlit/Flask integration.
 
-Tech Stack
+Tech Stack:
 
 Python (pandas, numpy, scikit-learn, matplotlib, seaborn)
 
